@@ -1,0 +1,3 @@
+for some reason, in VSC when I hopen the native terminal the program doesn't
+recognize repository it says fatal: not a git repository (or any of the 
+parent directories): .git/Users/danielallen maybe I need to update vsc
